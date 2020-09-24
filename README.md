@@ -12,5 +12,5 @@ My name is Niek, and i'am currently 14 years old. On the internet also known als
 
 ![Lokerhp's github stats](https://github-readme-stats.vercel.app/api?username=lokerhp)
 
-### NPM Packages
+### Projects
 - [Website](https://tech-niek.me)
