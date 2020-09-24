@@ -1,16 +1,16 @@
 ### Hi there 👋
+My name is Niek, and i'am currently 14 years old. On the internet also known als **rijsberhp** or **lokerhp**
+- 🔭 I’m currently working on **Multiple Projects** 
+- 🌱 I’m currently learning **Laravel**
+- 📫 How to reach me:
+  - **Twitter: @rijsberhpC**
+  - **Mail: rijsberhp@gmail.com**
+  - **Mail: nl.techniek.nl@gmail.com**
+  - **Discord tag: rijsberhp#0001**
+  
+- ⚡ Fun fact: **I'm already coding for 4 years!**
 
-<!--
-**lokerhp/lokerhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Lokerhp's github stats](https://github-readme-stats.vercel.app/api?username=lokerhp)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### NPM Packages
+- [Website](https://tech-niek.me)
