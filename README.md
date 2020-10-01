@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Niek, On the internet also known als **rijsberhp** or **lokerhp**
+My name is Niek. On the internet also known als **rijsberhp** or **lokerhp**
 - 🔭 I’m currently working on **Multiple Projects** 
 - 🌱 I’m currently learning **Laravel**
 - 📫 How to reach me:
